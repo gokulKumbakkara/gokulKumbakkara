@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+AI+Apps;FastAPI+%7C+GraphQL+%7C+LangChain;Lifelong+Learner+%26+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+AI+Apps;FastAPI+%7C+GraphQL+%7C;Lifelong+Learner+%26+Creator" />
 </p>
 
 ---
