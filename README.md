@@ -1,45 +1,42 @@
-<h1 align="center">Hi 👋, I'm Gokul</h1>
-<h3 align="center">💻 Software Developer </h3>
+# gokulKumbakkara
+## Description
+Personal repository of Gokul Kumbakkara, a software developer with a focus on building AI applications using FastAPI and GraphQL.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+AI+Apps;FastAPI+%7C+GraphQL+%7C;Lifelong+Learner+%26+Creator" />
-</p>
+## Features
+* Implementation of Agentic AI concepts in real-world projects
+* Development of high-performance RESTful APIs using FastAPI
+* Design and implementation of scalable GraphQL APIs
+* Integration of PostgreSQL database for data storage and management
+* Utilization of Docker for containerization and deployment
 
----
+## Tech Stack
+* FastAPI: Building high-performance RESTful APIs
+* GraphQL: Designing and implementing scalable APIs
+* PostgreSQL: Data storage and management
+* Docker: Containerization and deployment
 
-### 🌱 About Me  
-- 🔭 I’m currently learning about Agentic AI
-- 🌱 Learning **System Design, GraphQL APIs, and Agentic AI**  
-- ⚡ Fun fact: *I debug code faster after a workout* 🏋️‍♂️  
+## Installation
+To get started with the projects in this repository, follow these steps:
+1. Clone the repository using `git clone https://github.com/gokulKumbakkara/gokulKumbakkara.git`
+2. Install the required dependencies using `pip install -r requirements.txt`
+3. Set up the PostgreSQL database by running `docker-compose up -d`
+4. Start the FastAPI application using `uvicorn main:app --host 0.0.0.0 --port 8000`
 
----
+## Usage
+* Run the FastAPI application and access the API endpoints at `http://localhost:8000`
+* Use a tool like GraphiQL to interact with the GraphQL API at `http://localhost:8000/graphql`
+* Explore the repository to learn more about the projects and their implementation details
 
-### 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" alt="GraphQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-</p>
+## Folder Structure
+* `fastapi-app`: FastAPI application code
+* `graphql-api`: GraphQL API code
+* `postgresql-db`: PostgreSQL database setup and configuration
+* `docker`: Docker configuration files for containerization and deployment
 
----
-
-### 🚀 Featured Projects  
-- 🏋️ [Workout Planner](https://github.com/gokulk/workout-planner) → *AI-powered fitness app using LangChain & FastAPI*  
-- 🔔 [Meeting Name Notifier](https://github.com/gokulk/meeting-name-notifier) → *Real-time app that alerts you when your name is called in a meeting*  
-
----
-
-
-### 🌐 Connect with Me  
-<p>
-  <a href="https://www.linkedin.com/in/gokul-kumbakkara-39037516a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=gokulk&label=Profile%20Views&color=blue&style=flat" alt="views" /> 
-</p>
+## Contributing
+Contributions are welcome! If you're interested in contributing to the projects in this repository, please follow these steps:
+1. Fork the repository using the GitHub fork button
+2. Create a new branch for your feature or bug fix
+3. Implement your changes and commit them with a descriptive message
+4. Open a pull request against the main branch
+5. Wait for review and feedback from the repository maintainers
