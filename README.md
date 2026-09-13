@@ -1,42 +1,26 @@
-# gokulKumbakkara
-## Description
-Personal repository of Gokul Kumbakkara, a software developer with a focus on building AI applications using FastAPI and GraphQL.
+# Gokul Kumbakkara
 
-## Features
-* Implementation of Agentic AI concepts in real-world projects
-* Development of high-performance RESTful APIs using FastAPI
-* Design and implementation of scalable GraphQL APIs
-* Integration of PostgreSQL database for data storage and management
-* Utilization of Docker for containerization and deployment
+Software developer building full-stack apps and AI agents — FastAPI/Python and React/TypeScript on the web side, LangChain + Groq-powered RAG and multi-agent systems on the AI side.
+
+## Featured Projects
+
+| Project | What it is |
+|---|---|
+| [watchlog](https://github.com/gokulKumbakkara/watchlog) | TV series tracker with a LangChain ReAct AI agent and hybrid (vector + BM25) RAG search |
+| [Meeting_name_callout_notifier](https://github.com/gokulKumbakkara/Meeting_name_callout_notifier) | Rust desktop app that alerts you when your name is called in a meeting, with an AI co-pilot that can reply in a cloned voice |
+| [homepilot](https://github.com/gokulKumbakkara/homepilot) | TypeScript/Next.js application |
+| [READMInator](https://github.com/gokulKumbakkara/READMInator) | An MCP server / tool for automating README generation |
+| [Flutter-Prototope--Ecommerce](https://github.com/gokulKumbakkara/Flutter-Prototope--Ecommerce) | Flutter e-commerce prototype |
+| [Cloud-based-Real-time-DGA-Detection-Engine](https://github.com/gokulKumbakkara/Cloud-based-Real-time-DGA-Detection-Engine) | Real-time domain generation algorithm (DGA) detection engine |
 
 ## Tech Stack
-* FastAPI: Building high-performance RESTful APIs
-* GraphQL: Designing and implementing scalable APIs
-* PostgreSQL: Data storage and management
-* Docker: Containerization and deployment
 
-## Installation
-To get started with the projects in this repository, follow these steps:
-1. Clone the repository using `git clone https://github.com/gokulKumbakkara/gokulKumbakkara.git`
-2. Install the required dependencies using `pip install -r requirements.txt`
-3. Set up the PostgreSQL database by running `docker-compose up -d`
-4. Start the FastAPI application using `uvicorn main:app --host 0.0.0.0 --port 8000`
+- **Languages:** Python, TypeScript/JavaScript, Rust, Dart
+- **Backend:** FastAPI, SQLAlchemy (async), PostgreSQL, Alembic, Docker
+- **AI/Agents:** LangChain, LangGraph, Groq, RAG (ChromaDB, BM25), OpenAI, Anthropic
+- **Frontend:** React, Next.js, Vite
+- **Infra:** Docker Compose, Cloudflare Workers, Vercel
 
-## Usage
-* Run the FastAPI application and access the API endpoints at `http://localhost:8000`
-* Use a tool like GraphiQL to interact with the GraphQL API at `http://localhost:8000/graphql`
-* Explore the repository to learn more about the projects and their implementation details
+## Contact
 
-## Folder Structure
-* `fastapi-app`: FastAPI application code
-* `graphql-api`: GraphQL API code
-* `postgresql-db`: PostgreSQL database setup and configuration
-* `docker`: Docker configuration files for containerization and deployment
-
-## Contributing
-Contributions are welcome! If you're interested in contributing to the projects in this repository, please follow these steps:
-1. Fork the repository using the GitHub fork button
-2. Create a new branch for your feature or bug fix
-3. Implement your changes and commit them with a descriptive message
-4. Open a pull request against the main branch
-5. Wait for review and feedback from the repository maintainers
+Reach out via [GitHub](https://github.com/gokulKumbakkara).
